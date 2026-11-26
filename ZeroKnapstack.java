@@ -1,4 +1,4 @@
-public class JobSeq {
+public class ZeroKnapstack {
     static int knapStack(int[] weight, int[] profit, int capacity){
         int n = weight.length;
 
